@@ -1,0 +1,2 @@
+# Multimodal-vs.-Unimodal-approaches-for-identifying-mental-disorder-markers
+In this project I made a research on language and speech markers for mental health and I created three different models (1 unimodal text model, 1 unimodal audio model and 1 multimodal model that combines these 2). My purpose was to discover whether multimodal machine learning can perform better in identifying such markers.
